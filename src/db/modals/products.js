@@ -32,4 +32,4 @@ const Product = sequelize.define(
   },
 );
 
-export default Author
+export default Product
